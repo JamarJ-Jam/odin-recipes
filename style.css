@@ -46,6 +46,13 @@ a:visited {
     background-position: center;
     background-attachment: fixed;
 }
+.shrimpfriedrice {
+    background-image: url(./images/pexels-catscoming-2335683.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
 p {
     font-weight: 700;
 }
