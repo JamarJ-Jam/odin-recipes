@@ -1,8 +1,41 @@
 * {
         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-body {
+.index {
     background-image: url(./images/pexels-heftiba-940302.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+h1 {
+    text-align: center;
+    font-size: 75px;
+    color:rgba(255, 100, 28) ;
+}
+.list {
+    position: relative;
+    left: 0px;
+    top: 350px;
+    font-size: 25px;
+}
+a:link {
+    color: darkolivegreen;
+}
+a:hover {
+    color:hsl(175, 100%, 50%)
+}
+a:visited {
+    color:hsl(101, 100%, 49%)
+}
+#home {
+    color: black;
+    background-color:darkolivegreen ;
+}
+.ribs {
+    background-image: url(./images/pexels-goumbik-616401.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
