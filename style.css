@@ -39,3 +39,19 @@ a:visited {
     background-position: center;
     background-attachment: fixed;
 }
+.ramen {
+    background-image: url(./images/pexels-eva-bronzini-6569306.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+p {
+    font-weight: 700;
+}
+ul {
+    font-weight: 700;
+}
+ol {
+    font-weight: 700;
+}
